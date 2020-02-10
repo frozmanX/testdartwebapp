@@ -38776,7 +38776,7 @@ gn:function(a){return C.e.gn(this.a)+C.e.gn(this.b)},
 j:function(a,b){if(b==null)return!1
 return b instanceof X.iF&&this.a===b.a&&this.b===b.b}}
 F.vt.prototype={
-R:function(a){return new S.or(new F.oB("Flutter Demo Home Page",null),"Flutter Demo",X.Wz(null,C.hL),null)}}
+R:function(a){return new S.or(new F.oB("Sputnik map",null),"Flutter Demo",X.Wz(null,C.hL),null)}}
 F.oB.prototype={
 aN:function(){return new F.qN(C.p)}}
 F.qN.prototype={
