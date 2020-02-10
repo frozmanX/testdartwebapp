@@ -8,9 +8,9 @@ const RESOURCES = {
 "/assets\packages\cupertino_icons\assets\CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "/icons\Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "/icons\Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"/index.html": "db6c8cc8ade2f2121b081e2cfe78ce61",
-"/main.dart.js": "ca7785d6d73c04be54566050419f1cb8",
-"/manifest.json": "2dad83b7272518274a679e1f9d4fcca2"
+"/index.html": "ef4476a2951a74df58e5ceae2e212e0e",
+"/main.dart.js": "7cfb98636e0d2ec12106faea6417ec1b",
+"/manifest.json": "98955d1c924a13e83e893542d853bbef"
 };
 
 self.addEventListener('activate', function (event) {

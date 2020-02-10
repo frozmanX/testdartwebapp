@@ -1,6 +1,6 @@
 {
-    "name": "map4web",
-    "short_name": "map4web",
+    "name": "markers",
+    "short_name": "markers",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
